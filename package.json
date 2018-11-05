@@ -1,0 +1,22 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "Simple Quote Gen App",
+  "main": "simple.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsarinelli/circleci-simple-app.git"
+  },
+  "author": "Benish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsarinelli/circleci-simple-app/issues"
+  },
+  "homepage": "https://github.com/bsarinelli/circleci-simple-app#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
