@@ -18,5 +18,9 @@
   "homepage": "https://github.com/bsarinelli/circleci-simple-app#readme",
   "dependencies": {
     "jest": "^23.6.0"
+  },
+  "engines": {
+    "node": "10.13.0"
   }
+
 }
